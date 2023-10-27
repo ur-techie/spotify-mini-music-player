@@ -1,6 +1,6 @@
 # spotify-mini-music-player - HTML, CSS and Javascript.
 
-
+<img width="1448" src="https://github.com/Doomed-Boy/spotify-mini-music-player/blob/563d396c1f2bb5d80a5ce26bc93d0c51ed1dda2b/img/ss.png" >
 
 In this example, we'll create a simple music player interface using HTML, CSS, and Vue.js for the interactions. Here's how you can do it:
 
